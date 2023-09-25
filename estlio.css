@@ -1,0 +1,53 @@
+*{
+  text-justify: auto;
+
+}
+
+body{
+  background-color: rgb(231, 205, 202);
+}
+
+  h2, h3 {
+    text-align: center;
+  }
+  
+  .lista li  {
+    color: #000000;
+    border: solid 1px;
+    border-radius: 10px;
+    gap: 10px;
+    margin: 10px;
+    text-align-last: center;
+    list-style-type: none;
+    font-weight: bolder;
+    display: block;
+
+  }
+  
+  li a {
+    color: black;
+    inline-size: none;
+    text-decoration: none;
+  }
+  
+  ul {
+    text-decoration: none;
+  }
+  
+  .foto {
+    float: right;
+  }
+
+  img {
+   margin: auto;
+   display: block;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  
+  .logo{
+    display: block;
+    margin-left: 0;
+  }
